@@ -6,3 +6,4 @@ Changing Alice.txt
 
 Adding new text to Alice.txt for rebasing
 
+Making changes to ALice.txt to show interactive rebasing
