@@ -1,3 +1,5 @@
 
 Hi!! I'm Bobby. I'm been here for a while now. 
 This is a helpful tutorial. 
+
+Making changes to Bob.txt for interactive rebasing
