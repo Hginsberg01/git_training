@@ -1,6 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding text to the second line of Alice.txt
+<<<<<<< HEAD
 
 Changing Alice.txt
 
 Adding new text to Alice.txt for rebasing
+
